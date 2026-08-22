@@ -9,7 +9,7 @@ This project showcases a complete solution for data warehousing and analytics, e
 
 ## **Project Overview**
 
-This project consists of the following components:
+ This project consists of the following components:
 
 1. **Data Architecture:** Designing a modern data warehouse utilizing the Medallion Architecture, which includes Bronze, Silver, and Gold layers.
 2. **ETL Pipelines:** Extracting, transforming, and loading data from various source systems into the data warehouse.
